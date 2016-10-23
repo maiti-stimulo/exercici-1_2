@@ -7,3 +7,5 @@ mirarem de penjar una carpeta amb dues imatges
 
 ![alt tag] (https://github.com/maiti-stimulo/exercici-1_2/blob/master/maiti%40maiti:%20%7E-git_test_002.png)
 
+Almanys hem penjat una imatge
+
